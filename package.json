@@ -89,7 +89,7 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-3": "^6.3.13",
     "history": "^1.17.0",
-    "node-sass": "^4.6.0",
+    "node-sass": "^7.0.0",
     "postcss": "^6.0.12",
     "postcss-simple-vars": "^4.1.0",
     "react": "^0.14.9",
